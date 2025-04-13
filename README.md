@@ -26,7 +26,7 @@
 ## ⏰ Current direction and fields.
 
 * :star2:  **Computer Vison**
-* :star2: ​ **Spiking Neural Networks**
+* :star2:  **Spiking Neural Networks**
 * :star2:  **Large Language Models**
 
 
