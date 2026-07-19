@@ -1,6 +1,6 @@
 # This is G.t. 霁天 👋.
 
-**Be a great man, be a nobody**.
+**过去的事就过去吧。**
 
 
 
@@ -115,7 +115,7 @@ I am especially interested in building AI methods that connect mathematical stru
 
 
 
-💬 **Contact me / 联系我** 
+## 💬 Contact me / 联系方式
 
 ​	📧 onbigion@gmail.com; onbigion@live.com.
 
