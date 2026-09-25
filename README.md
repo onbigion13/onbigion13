@@ -110,6 +110,7 @@ I am especially interested in building AI methods that connect mathematical stru
 ## 🏢 Institutions where having studied and worked / 学习与工作机构
 
 * 🏫 School of Mathematics，School of Artificial Intelligence，Jilin University.
+* 🏢 Shenzhen City EdgeMed Technology Co., Ltd. / 深圳市精锋医疗科技股份有限公司.
 
 
 
@@ -126,5 +127,8 @@ I am especially interested in building AI methods that connect mathematical stru
 ​	🎮 [G.t.霁天 / 348856063](https://steamcommunity.com/id/onbigion13/)
 
 ​	📘 [霁天(@onbigion13)](https://www.facebook.com/onbigion13/)
+
+
+
 
 
