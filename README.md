@@ -68,7 +68,7 @@ I am especially interested in building AI methods that connect mathematical stru
 
 2. **Xiao Du**, Wanli Shi, Hanyuan Zheng, Bhaskar Mukhoty, Yang Cao, Bin Gu, and Tieru Wu. “Dynamic Training of Spiking Neural Networks with Loss-Based Stochastic Latency.” **Computer Vision and Image Understanding**, 2026, 104873, ISSN 1077-3142, https://doi.org/10.1016/j.cviu.2026.104873.
 
-3. Jinjie Fang, **Xiao Du**, Tianxing Man, Chengxun Jin, Haozhen Zhang, Yi Chang, and Bin Gu. “Achieve Latency-Efficient Temporal-Coding Spiking LLMs via Discretization-Aware Conversion.” **Submitted to NeurIPS 2026**. https://openreview.net/forum?id=zrGcuTNwu1.
+3. Jinjie Fang, Tianxing Man, **Xiao Du**, Chengxun Jin, Haozhen Zhang, Yi Chang, and Bin Gu. “Achieve Latency-Efficient Temporal-Coding Spiking LLMs via Discretization-Aware Conversion.” **The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026), Main Track Poster**. https://openreview.net/forum?id=G3WiNUM5h1.
 
 ### Neural Network Architectures / 神经网络结构
 
@@ -126,4 +126,5 @@ I am especially interested in building AI methods that connect mathematical stru
 ​	🎮 [G.t.霁天 / 348856063](https://steamcommunity.com/id/onbigion13/)
 
 ​	📘 [霁天(@onbigion13)](https://www.facebook.com/onbigion13/)
+
 
